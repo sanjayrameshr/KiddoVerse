@@ -50,8 +50,11 @@ dependencies:
   # Smooth Page Indicator for onboarding
   smooth_page_indicator: ^1.1.0
   
-  # Confetti animation
+  # Confetti for celebrations
   confetti: ^0.7.0
+  
+  # Cached Network Images
+  cached_network_image: ^3.3.0
 
 dev_dependencies:
   flutter_test:

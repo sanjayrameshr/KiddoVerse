@@ -46,8 +46,7 @@ class CustomCard extends StatelessWidget {
                 width: 60,
                 height: 60,
                 decoration: BoxDecoration(
-                  color:
-                      color?.withOpacity(0.2) ??
+                  color: color?.withOpacity(0.2) ??
                       AppColors.primary.withOpacity(0.1),
                   borderRadius: BorderRadius.circular(15),
                 ),
